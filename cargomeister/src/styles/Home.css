@@ -1,0 +1,22 @@
+.home > img {
+    width: 75vw;
+}
+
+.home {
+    text-align: center;
+    color: lightskyblue;
+    justify-content: center;
+}
+
+.line {
+    height: 5px;
+    width: 70%;
+    background-color: lightgrey;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+.container-list {
+    text-align: center;
+    justify-content: center;
+}
